@@ -14,7 +14,7 @@ cur.execute('''CREATE TABLE Question
 cur.execute("INSERT INTO Topic VALUES(1,'Adjectives and adverbs')")
 
 
-
+#continue Add Question and Answer
 #https://www.englisch-hilfen.de/en/exercises/adjectives_adverbs/order.htm
 #Answer must be in upper case
 #Topic Id based on the topic you insert to the Topic table 
